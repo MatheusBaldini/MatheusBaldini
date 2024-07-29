@@ -2,7 +2,7 @@
 Sou Matheus Baldini.     
 Sintam-se à vontade para explorar meu perfil e conhecer meus projetos!
 
-
+### Contatos 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/matheusbaldini9)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
